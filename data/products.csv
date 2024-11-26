@@ -1,0 +1,10 @@
+name,category,serving_size,weight_per_unit_g,calories,protein,carbohydrates,fat,fiber,sugar
+Apple,Fruit,1 apple,182,95,0.5,25,0.3,4.4,19
+Banana,Fruit,1 banana,118,105,1.3,27,0.3,3.1,14
+Egg,Protein,1 egg,50,70,6,0.6,5,0,0.5
+Chicken Breast,Protein,100g,100,120,22,0,2.7,0,0
+Rice,Carbohydrate,1 cup (185g),185,650,13,145,1,2,0
+Avocado,Fat,1 avocado,150,240,3,12,22,10,0.2
+Carrot,Vegetable,1 carrot,61,25,0.6,6,0.1,1.7,2.9
+Spinach,Vegetable,1 cup (30g),30,7,0.9,1.1,0.1,0.7,0.1
+

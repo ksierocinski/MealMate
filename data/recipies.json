@@ -1,0 +1,129 @@
+[
+    {
+      "name": "Scrambled Eggs",
+      "category": "Breakfast",
+      "ingredients": [
+        {
+          "name": "Eggs",
+          "amount": "2",
+          "unit": "pcs"
+        },
+        {
+          "name": "Spinach",
+          "amount": "1 cup",
+          "unit": "cups"
+        },
+        {
+          "name": "Olive oil",
+          "amount": "1 tsp",
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "amount": "to taste",
+          "unit": ""
+        },
+        {
+          "name": "Pepper",
+          "amount": "to taste",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "Heat olive oil in a pan over medium heat.",
+        "Add spinach and cook for 1-2 minutes until wilted.",
+        "Crack the eggs into the pan, stir gently, and cook for 2-3 minutes.",
+        "Season with salt and pepper, then serve."
+      ]
+    },
+    {
+      "name": "Chicken Salad",
+      "category": "Lunch",
+      "ingredients": [
+        {
+          "name": "Chicken breast",
+          "amount": "150g",
+          "unit": "g"
+        },
+        {
+          "name": "Lettuce",
+          "amount": "1 cup",
+          "unit": "cups"
+        },
+        {
+          "name": "Tomato",
+          "amount": "1 medium",
+          "unit": "pcs"
+        },
+        {
+          "name": "Cucumber",
+          "amount": "1/2 medium",
+          "unit": "pcs"
+        },
+        {
+          "name": "Olive oil",
+          "amount": "1 tbsp",
+          "unit": "tbsp"
+        },
+        {
+          "name": "Lemon juice",
+          "amount": "1 tsp",
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "amount": "to taste",
+          "unit": ""
+        },
+        {
+          "name": "Pepper",
+          "amount": "to taste",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "Cook the chicken breast until fully cooked and slice into strips.",
+        "Chop the lettuce, tomato, and cucumber.",
+        "In a bowl, combine the lettuce, tomato, cucumber, and chicken.",
+        "Drizzle olive oil and lemon juice over the salad.",
+        "Season with salt and pepper, then toss and serve."
+      ]
+    },
+    {
+      "name": "Avocado Toast",
+      "category": "Snack",
+      "ingredients": [
+        {
+          "name": "Whole wheat bread",
+          "amount": "2 slices",
+          "unit": "pcs"
+        },
+        {
+          "name": "Avocado",
+          "amount": "1 medium",
+          "unit": "pcs"
+        },
+        {
+          "name": "Lemon juice",
+          "amount": "1 tsp",
+          "unit": "tsp"
+        },
+        {
+          "name": "Salt",
+          "amount": "to taste",
+          "unit": ""
+        },
+        {
+          "name": "Pepper",
+          "amount": "to taste",
+          "unit": ""
+        }
+      ],
+      "instructions": [
+        "Toast the slices of whole wheat bread until golden brown.",
+        "Mash the avocado in a bowl with lemon juice, salt, and pepper.",
+        "Spread the mashed avocado evenly over the toasted bread.",
+        "Serve immediately."
+      ]
+    }
+]
